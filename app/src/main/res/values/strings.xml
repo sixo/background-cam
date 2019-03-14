@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BackgroundCam</string>
+
+    <string name="err_no_cam_permission">App requires camera permission to work!</string>
+</resources>
